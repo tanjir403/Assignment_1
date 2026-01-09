@@ -39,9 +39,10 @@ body {
 }
 
 .hero {
-    background: url("./assets/hero-bg.png") no-repeat;
-    background-size: contain;
+    background: url("Assets/hero-bg.png") no-repeat;
+    background-size: cover;
     height: 850px;
+    width: 100%;
     text-align: center;
     padding-top: 110px;
 }
