@@ -26,3 +26,34 @@
 
     <button class="btn">Get Early Access</button>
 </nav>
+<section class="hero">
+    <div class="hero-content">
+        <div class="badge">
+            <img src="./assets/611066171_26643582125241718_8758936485411898539_n.png" alt="Early access badge">
+            <span>Early Access Now Open</span>
+        </div>
+
+        <h2>
+            <span class="hero-title-light">Structured thinking,</span><br>
+            <span class="hero-title-accent">no just note-taking.</span>
+        </h2>
+
+        <p class="hero-text">
+            A private space to store notes, links, and learning summaries —
+            designed to help you think clearly, connect ideas,
+            and turn learning into long-term knowledge.
+        </p>
+
+        <div class="hero-actions">
+            <div class="btn-primary">
+                Start Building Your Vault
+                <img src="./assets/ArrowRight.png" alt="Arrow right icon">
+            </div>
+
+            <div class="btn-outline">
+                <img src="./assets/play.png" alt="Play button icon">
+                See How It Works
+            </div>
+        </div>
+    </div>
+</section>
